@@ -1,0 +1,1 @@
+SELECT * FROM table WHERE gender='Male' AND age>30 ORDER BY age DESC
