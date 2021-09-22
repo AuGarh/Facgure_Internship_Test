@@ -35,4 +35,9 @@ while True:
     elif(ch == 3):
         print(my_cal.multiply(a, b))
     elif(ch == 4):
-        print(my_cal.divide(a, b))
+        if(b == 0):
+            print("ไม่สามารถหารด้วย 0 ได้")
+        else:
+            print(my_cal.divide(a, b))
+    else:
+        print("ERROR!!!!")
