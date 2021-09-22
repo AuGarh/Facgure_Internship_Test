@@ -1,5 +1,5 @@
-https://augarh.github.io/Facgure_Intern_Test_Web/
+https://augarh.github.io/Facgure_Intern_Test_Web/web/
 
 
 Source code :
-https://github.com/AuGarh/Facgure_Intern_Test_Web_Source_Code
+https://github.com/AuGarh/Facgure_Intern_Test_Web
