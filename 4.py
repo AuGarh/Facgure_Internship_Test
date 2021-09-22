@@ -14,6 +14,6 @@ for i in range(1, n+1):
             g7.append(i)
 
 
-print(g3)
-print(g5)
-print(g7)
+print("group#3 : {}".format(g3))
+print("group#5 : {}".format(g5))
+print("group#7 : {}".format(g7))
